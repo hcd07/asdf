@@ -1,0 +1,11 @@
+C:\Users\HAFTAİCİ AKSAM YAZLM\Source\Repos\deneme 24\deneme 24\bin\Debug\deneme 24.exe.config
+C:\Users\HAFTAİCİ AKSAM YAZLM\Source\Repos\deneme 24\deneme 24\bin\Debug\deneme 24.exe
+C:\Users\HAFTAİCİ AKSAM YAZLM\Source\Repos\deneme 24\deneme 24\bin\Debug\deneme 24.pdb
+C:\Users\HAFTAİCİ AKSAM YAZLM\Source\Repos\deneme 24\deneme 24\obj\Debug\deneme 24.csproj.AssemblyReference.cache
+C:\Users\HAFTAİCİ AKSAM YAZLM\Source\Repos\deneme 24\deneme 24\obj\Debug\deneme 24.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAFTAİCİ AKSAM YAZLM\Source\Repos\deneme 24\deneme 24\obj\Debug\deneme_24.Form1.resources
+C:\Users\HAFTAİCİ AKSAM YAZLM\Source\Repos\deneme 24\deneme 24\obj\Debug\deneme_24.Properties.Resources.resources
+C:\Users\HAFTAİCİ AKSAM YAZLM\Source\Repos\deneme 24\deneme 24\obj\Debug\deneme 24.csproj.GenerateResource.cache
+C:\Users\HAFTAİCİ AKSAM YAZLM\Source\Repos\deneme 24\deneme 24\obj\Debug\deneme 24.csproj.CoreCompileInputs.cache
+C:\Users\HAFTAİCİ AKSAM YAZLM\Source\Repos\deneme 24\deneme 24\obj\Debug\deneme 24.exe
+C:\Users\HAFTAİCİ AKSAM YAZLM\Source\Repos\deneme 24\deneme 24\obj\Debug\deneme 24.pdb
